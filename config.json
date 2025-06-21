@@ -1,0 +1,8 @@
+{
+  "virustotal_api_key": "YOUR_API_KEY",
+  "email": {
+    "smtp": "smtp.example.com",
+    "port": 587
+  },
+  "webhook_url": "https://hooks.example.com" 
+}
